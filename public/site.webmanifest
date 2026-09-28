@@ -1,0 +1,18 @@
+{
+  "name": "SB Studio — Santiago Bracamonte",
+  "short_name": "SB Studio",
+  "description": "Desarrollo web, software, bases de datos y asesoría tecnológica.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05070d",
+  "theme_color": "#05070d",
+  "lang": "es-CO",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

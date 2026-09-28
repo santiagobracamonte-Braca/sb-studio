@@ -1,0 +1,6 @@
+# SB Studio — robots.txt
+User-agent: *
+Allow: /
+
+# Cambia la URL cuando tengas tu dominio propio.
+Sitemap: https://santiagobracamonte.com/sitemap.xml
